@@ -13,4 +13,7 @@ Order of codes
 
 1) simple_example.py 	
 					Takes a single argument, that is the name of the user
+
+2) shapes_counter.py
+					Takes image path as input and counts number of shapes in image
 					
