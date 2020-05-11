@@ -15,5 +15,5 @@ Order of codes
 					Takes a single argument, that is the name of the user
 
 2) shapes_counter.py
-					Takes image path as input and counts number of shapes in image
+					Takes image path as input and just shows the image
 					
